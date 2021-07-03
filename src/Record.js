@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import  RecordAllMedia  from "./RecordScreen";
+import  RecordAllMedia  from "./RecordAllMedia";
 
 
 class RecordIt extends Component{
